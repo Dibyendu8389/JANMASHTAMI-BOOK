@@ -1,4 +1,4 @@
-[![MasterHead](https://edems.in/wp-content/uploads/2024/04/output-onlinegiftools.gif)](https://rishavchanda.io)<p align="left">[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif)](https://rishavchanda.io)
+[![MasterHead](https://7424624.fs1.hubspotusercontent-na1.net/hub/7424624/hubfs/robotic%20process%20automaton%20gif.gif?length=700&name=robotic%20process%20automaton%20gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dibyendu Pradhan !</h1>
 <h3 align="center">A Robtics🤖 Engineer🧑🏻‍🎓.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.techcircle.in/uploads/article-image/2018/08/images/16288-chatbot.gif">
