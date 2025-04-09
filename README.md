@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dibyendu Pradhan !</h1>
 <h3 align="center">A Robtics🤖 Engineer🧑🏻‍🎓.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.techcircle.in/uploads/article-image/2018/08/images/16288-chatbot.gif">
+<img align="left" alt="Coding" width="400" src="https://edems.in/wp-content/uploads/2024/04/output-onlinegiftools.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendu8389&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendu8389" /> </p>
